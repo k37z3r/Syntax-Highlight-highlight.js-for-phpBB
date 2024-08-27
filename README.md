@@ -14,10 +14,14 @@ Go to "ACP" > "Customise" > "Extensions" and enable the "Syntax Highlight (highl
 
 ## License
 
-[GNU General Public License v3](license.txt)
+[GNU General Public License v3]
 
 ## Author
 
 k37z3r (Sven Minio)
 
-## Website https://source-collab.com
+## Website
+https://source-collab.com
+
+
+![screenshot](https://github.com/user-attachments/assets/3615828d-c57a-44f5-b55b-0d772462c1ad)
